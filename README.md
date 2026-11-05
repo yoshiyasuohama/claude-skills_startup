@@ -7,6 +7,15 @@
 
 このリポジトリは、その距離を埋めるためのものです。名著に書かれたメソッドやノウハウを、Claudeが一緒に手を動かしてくれる「実行できる形」に変換して届けます。
 
+## Skill一覧
+
+| スキル名 | 機能 | 概要 |
+|---|---|---|
+| [method-lean-ux](claude-skills/method-lean-ux.md) | Lean UX 仮説・実験プランの作成 | Jeff Gothelf『Lean UX』に基づき、事業課題から前提の洗い出し、プロトペルソナ、仮説文、最小限の実験までを順に整理します |
+| [method-the-lean-startup](claude-skills/method-the-lean-startup.md) | リーン実験プランの作成 | Eric Ries『The Lean Startup』の Build–Measure–Learn に基づき、新しいアイデアを前提、MVP、指標、成長エンジン、ピボット基準を含む検証可能な計画にします |
+| [method-the-mom-test](claude-skills/method-the-mom-test.md) | 顧客との対話プランの作成 | Rob Fitzpatrick『The Mom Test』に基づき、話を聞く相手、確かめたいこと、質問案、引き出すコミットメントなど、お世辞ではなく事実を得るための計画を作ります |
+| [method-zero-to-one](claude-skills/method-zero-to-one.md) | 事業のストレステストとスコアカードの作成 | Peter Thiel『Zero to One』の7つの質問に順に答え、事業の強みと未検証の点をスコアカードで可視化します |
+
 ---
 
 ## このリポジトリでできること
@@ -60,9 +69,3 @@
 ```
 
 所要時間はSkillによって異なりますが、多くは15〜30分程度で一通りの結果が得られる設計を目指しています。
-
-## Skill一覧
-
-| スキル名 | 機能 | 概要 |
-|---|---|---|
-| _（追加予定）_ | | |
